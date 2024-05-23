@@ -903,6 +903,7 @@ https://youtu.be/WqAyszZMvKM
 4. 닉네임 유효성 검사  한글만 가능하며 2-8자
 <br>
 ![회원가입](etc/회원가입.png){: width="324" height="576"}
+<img src="etc/회원가입.png" width="324" height="576"/>
 
 ### 02. 로그인 페이지 
 
